@@ -6,4 +6,4 @@ To make use of this template just download it or clone it into Visual Studio or 
 
 If you're using Visual Studio then **F5** should be enough to run the project and have a working website running in your browser.
 
-If your working in Visual Studio Code you can run the project from the integrated terminal using `dotnet run`.
+If your working in Visual Studio Code you can run the project from the integrated termil using `dotnet run`.
